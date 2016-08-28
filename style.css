@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-image: url("pic.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+li{
+    list-style-type: none;
+}
